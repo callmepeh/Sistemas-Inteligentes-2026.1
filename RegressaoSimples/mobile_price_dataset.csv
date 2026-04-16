@@ -1,0 +1,16 @@
+Brand,Model,Price_USD,RAM_GB,Storage_GB,Battery_mAh,Screen_Size_Inch,Camera_MP,OS,Release_Year
+Samsung,Galaxy S21,799,8,128,4000,6.2,64,Android,2021
+Apple,iPhone 13,999,4,128,3240,6.1,12,iOS,2021
+Xiaomi,Redmi Note 11,199,6,128,5000,6.43,50,Android,2022
+Realme,Realme 9 Pro,299,8,128,5000,6.6,64,Android,2022
+OnePlus,OnePlus 9,729,8,128,4500,6.55,48,Android,2021
+Oppo,Oppo A54,249,6,128,5000,6.51,13,Android,2021
+Vivo,Vivo V21,399,8,128,4000,6.44,64,Android,2021
+Huawei,P40 Lite,349,6,128,4200,6.4,48,Android,2020
+Nokia,Nokia G20,199,4,64,5050,6.52,48,Android,2021
+Infinix,Zero X Pro,299,8,128,4500,6.67,108,Android,2021
+Tecno,Camon 18,219,6,128,5000,6.8,48,Android,2021
+Apple,iPhone 12,899,4,64,2815,6.1,12,iOS,2020
+Samsung,Galaxy A52,499,6,128,4500,6.5,64,Android,2021
+Xiaomi,Poco X3 Pro,279,8,256,5160,6.67,48,Android,2021
+Realme,Narzo 50,199,4,64,5000,6.6,50,Android,2022
