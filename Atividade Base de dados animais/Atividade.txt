@@ -1,0 +1,10 @@
+Entrega do Jupiter Notebook: 06/05
+
+PASSOS:
+1 carregar dados
+2 filtrar y (peso) e X (Todas as características) 
+3 pré processamento
+4 treino (70) teste (30) seed = 50
+5 regressão (pode usar o que quiser, tipo biblioteca)
+6 métrica R²
+7 quem conseguir o R² maior que 0.8 ganha 0.5 a mais na atividade ou a equipe com o melhor resultado5555
